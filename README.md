@@ -6,7 +6,6 @@
 Clone a person’s voice using **deep learning** — this script captures **Person X’s speech content** (what they said) and re-synthesizes it in **Person Y’s voice** (how they said it).
 It uses **OpenAI Whisper** for transcription and **XTTS v2** for multilingual voice cloning.
 
----
 
 ## 🚀 Features
 
