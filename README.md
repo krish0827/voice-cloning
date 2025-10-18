@@ -155,8 +155,4 @@ ipd.Audio(output_path)
 * 🗣️ [Coqui TTS (XTTS v2)](https://github.com/coqui-ai/TTS)
 * 🔊 [OpenAI Whisper](https://github.com/openai/whisper)
 
----
 
-
-Would you like me to format this README with **Colab badges** (so it can be run directly on Google Colab)?
-I can add a launch button and a sample section for dataset/audio upload examples.
